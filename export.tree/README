@@ -1,0 +1,1 @@
+This dataset was curated for publication as part of the manuscript in Kanno et al. (in preparation). It contains iEEGs collected from 106 individuals during auditory naming task. The available Matlab code can be found at https://github.com/a8k8nn0/TractographyAtlas. The iEEG coordinate system employed in this dataset is MNI305.
